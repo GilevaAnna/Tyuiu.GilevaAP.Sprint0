@@ -7,3 +7,6 @@
         int age = 45;
         Console.WriteLine("здравствуйте меня зовут " + name + " мне " + age + " лет");
         Console.ReadKey();
+    }
+
+}
