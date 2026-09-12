@@ -20,4 +20,9 @@
     <Project Path="Tyuiu.GilevaAP.Sprint0.Task4.V0.Test/Tyuiu.GilevaAP.Sprint0.Task4.V0.Test.csproj" Id="95340501-3beb-4927-9904-383af10ff789" />
     <Project Path="Tyuiu.GilevaAP.Sprint0.Task4.V0/Tyuiu.GilevaAP.Sprint0.Task4.V0.csproj" Id="9fb7c63d-6ea9-4d12-8e16-f7453cab9c24" />
   </Folder>
+  <Folder Name="/Task5/">
+    <Project Path="Tyuiu.GilevaAP.Sprint0.Task5.V0.lib/Tyuiu.GilevaAP.Sprint0.Task5.V0.lib.csproj" Id="f8620fe2-daf8-4a27-bd55-f79599ccead1" />
+    <Project Path="Tyuiu.GilevaAP.Sprint0.Task5.V0.Test/Tyuiu.GilevaAP.Sprint0.Task5.V0.Test.csproj" Id="2199d466-d8b0-4fdc-882d-ca27fb131294" />
+    <Project Path="Tyuiu.GilevaAP.Sprint0.Task5.V0/Tyuiu.GilevaAP.Sprint0.Task5.V0.csproj" Id="f62a4a18-1564-4521-b4ac-b71964c09ed5" />
+  </Folder>
 </Solution>
