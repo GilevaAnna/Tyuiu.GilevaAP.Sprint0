@@ -7,10 +7,10 @@ namespace Tyuiu.GilevaAP.Sprint0.Task2.V0.Test
         [TestMethod]
         public void CheckGetMessageValid()
         {
-            var name = "Игорь";
+            var name = "Анна";
             var res = DataService.GetMessage(name);
 
-            Assert.AreEqual("Привет, Игорь", res);
+            Assert.AreEqual("Привет, Анна", res);
         }
     }
 }
